@@ -1,0 +1,6 @@
+{
+    "BERTA_SERVERS" : ["epg-lt-odc-berta-02.iind.intel.com"],
+    "BERTA_BUILD_NAME": "amber-examples",
+    "BERTA_PRODUCT_NAME": "amber_examples",
+    "PORTABLE_PYTHON_OS_LIST": ["Windows", "Linux", "FreeBSD-14"]
+}
